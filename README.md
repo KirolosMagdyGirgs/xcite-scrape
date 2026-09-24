@@ -39,6 +39,4 @@ Enter a search term when prompted (e.g. `iphone`). The script clicks "Show more"
 ]
 ```
 
-## Optional: run on a schedule
 
-Uncomment the block at the bottom of the script to re-run the scrape every 20 minutes.
